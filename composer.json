@@ -1,5 +1,5 @@
 {
-    "name": "pbmedia/laravel-webdav",
+    "name": "soumettre/laravel-webdav",
     "type": "library",
     "description": "Laravel 6 WebDAV Filesystem",
     "keywords": [
