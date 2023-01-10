@@ -13,7 +13,7 @@ class WebDAVServiceProvider extends ServiceProvider
     public function boot()
     {
         Storage::extend('webdav', function ($app, $config) {
-            $pathPrefix = array_key_exists('pathPrefix', $config) ? $config['pathPrefix'] : null;
+            $pathPrefix = array_key_exists('pathPrefix', $config) ? $config['pathPrefix'] : '';
 
             $client = new WebDAVClient($config);
 
