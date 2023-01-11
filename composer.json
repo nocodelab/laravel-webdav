@@ -17,7 +17,8 @@
         }
     ],
     "require": {
-        "illuminate/filesystem": "^5.0 || ^6.0 || ^v9.0",
+        "php": "^8.0",
+        "laravel/framework": ">=9",
         "league/flysystem-webdav": "^3.0"
     },
     "require-dev": {
