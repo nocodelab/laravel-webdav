@@ -1,12 +1,12 @@
 {
-    "name": "soumettre/laravel-webdav",
+    "name": "nocodelab/laravel-webdav",
     "type": "library",
     "description": "Laravel 6 WebDAV Filesystem",
     "keywords": [
         "pbmedia",
         "laravel-webdav"
     ],
-    "homepage": "https://github.com/pascalbaljetmedia/laravel-webdav",
+    "homepage": "https://github.com/nocodelab/laravel-webdav",
     "license": "MIT",
     "authors": [
         {
